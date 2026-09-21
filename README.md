@@ -25,6 +25,5 @@ The solution was to build out a basic employee onboarding pipeline in active dir
 
 ## Key Accomplishments
 * Built NMG.com domain from scratch
-* [Add your second key accomplishment here]
-* [Add your third key accomplishment here]
-
+* Solved a mock ticket where a user was given the incorrect access!
+* I fully documented my steps end-to-end
