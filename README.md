@@ -27,3 +27,4 @@ The solution was to build out a basic employee onboarding pipeline in active dir
 * Built NMG.com domain from scratch
 * Solved a mock ticket where a user was given the incorrect access!
 * I fully documented my steps end-to-end
+* Implemented RBAC with security groups mapped to each department
