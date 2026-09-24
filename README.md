@@ -6,7 +6,7 @@ The problem in this project was related to a fictional company called Northstar 
 ## Solution Overview
 The solution was to build out a basic employee onboarding pipeline in active directory. I set up the RBAC matrix and ensured users were given access ONLY according to their role. I also simulated a mock ticket where a user was provisioned the incorrect level of access!
 ## Video Walkthrough
-[Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
+
 
 ## Tools Used
 * Windows Server
